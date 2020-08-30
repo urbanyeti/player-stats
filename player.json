@@ -1,0 +1,30 @@
+{
+    "Player": {
+    "Name": "",
+    "PhysicalAbilities": {
+        "Strength": 10,
+        "Dexterity": 10
+
+
+    },
+    "MentalAbilities": {
+        "PatternRecognition": 10,
+        "LongtermMemorySpeed": 10,
+        "LongtermMemoryStorage": 10,
+        "ShorttermMemorySpeed": 10,
+        "ShorttermMemoryStorage": 10,
+        "Focus": 10,
+        "Multitasking": 10,
+        "Observation": 10,
+        "Analysis": 10,
+        "Creativity": 10,
+        "ProcessingSpeed": 10,
+        "Patience": 10,
+        "Alertness": 10
+    },
+    "SocialAbilities": {
+
+    },
+    "Skills": []
+    }
+}

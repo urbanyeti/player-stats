@@ -1,0 +1,44 @@
+- Want to rate fictional / historical characters on 10 to 20 attributes
+	- Examples: Ability to recognize patterns, Focus or ability to concentrate on a single task, Quickness to access longterm memory
+	- Not too many questions for each character
+	- Answering shouldn't take too long (your "gut feeling")
+
+Questions:
+- Best approach:
+	- Ranking
+	- Rating agreement
+	- Compare between 2
+	- Binary yes/no
+- How many questions per character?
+- How many characters per survey?
+
+{
+    "Player": {
+    "Name": "",
+    "PhysicalAbilities": {
+        "Strength": 10,
+        "Dexterity": 10
+
+
+    },
+    "MentalAbilities": {
+        "PatternRecognition": 10,
+        "LongtermMemorySpeed": 10,
+        "LongtermMemoryStorage": 10,
+        "ShorttermMemorySpeed": 10,
+        "ShorttermMemoryStorage": 10,
+        "Focus": 10,
+        "Multitasking": 10,
+        "Observation": 10,
+        "Analysis": 10,
+        "Creativity": 10,
+        "ProcessingSpeed": 10,
+        "Patience": 10,
+        "Alertness": 10
+    },
+    "SocialAbilities": {
+
+    },
+    "Skills": []
+    }
+}
